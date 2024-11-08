@@ -18,7 +18,7 @@
 
 <br>
 
-> 🔭 Currently building: **fantast11**
+> 🔭 Currently building: **Fantasy11**
 > 
 > 🌱 Learning: **MERN Stack**
 > 
