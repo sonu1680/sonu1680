@@ -1,7 +1,7 @@
 <!-- Dynamic Header with 3D Text -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);const%20developer%20=%20%22Sonu%20Kumar%20Pandit%22;&center=true&size=27&width=650" style="pointer-events: none;>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);const%20developer%20=%20%22Sonu%20Kumar%20Pandit%22;&center=true&size=27&width=650" >
   </a>
 </h1>
 
