@@ -117,12 +117,6 @@ me.sayHi();
 
 
 
-<!-- GitHub Contribution Grid -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu1680&theme=github-compact&hide_border=true&area=true" />
-</p>
-
-
 <!-- Random Dev Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
