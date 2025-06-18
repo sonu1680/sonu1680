@@ -120,12 +120,6 @@ me.sayHi();
   <img src="https://github-profile-trophy.vercel.app/?username=sonu1680&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
 </div>
 
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-  <br><br>
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <!-- Spotify Now Playing -->
 <div align="center">
