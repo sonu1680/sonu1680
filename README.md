@@ -120,8 +120,10 @@ me.sayHi();
   <img src="https://github-profile-trophy.vercel.app/?username=sonu1680&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sonu1680)
-
+<!-- GitHub Contribution Grid -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu1680&theme=github-compact&hide_border=true&area=true" />
+</p>
 
 <!-- Spotify Now Playing -->
 <div align="center">
