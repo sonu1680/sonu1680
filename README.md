@@ -115,20 +115,13 @@ me.sayHi();
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu1680&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu1680&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
-</div>
+
 
 <!-- GitHub Contribution Grid -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu1680&theme=github-compact&hide_border=true&area=true" />
 </p>
 
-<!-- Spotify Now Playing -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-</div>
 
 <!-- Random Dev Quote -->
 <div align="center">
@@ -140,15 +133,4 @@ me.sayHi();
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
 
-<!-- Custom Links Section -->
-<div align="center">
-  <a href="https://linkedin.com/in/sonupandit1680">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sonupandit1680@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/sonupandit16800/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
+
